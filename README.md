@@ -1,4 +1,4 @@
-![Carlos CHACON (6)](https://user-images.githubusercontent.com/23017385/199855373-6f0a4b30-c4c4-4051-9f7c-71e804131397.png)
+![Copia de Carlos CHACON](https://user-images.githubusercontent.com/23017385/218588631-e5fea0bd-53b6-40c2-b8af-200d6dc695ff.png)
 
 ### Hi there 
 
