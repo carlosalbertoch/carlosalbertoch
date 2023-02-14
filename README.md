@@ -6,7 +6,8 @@
 Hi there 👋 I am Carlos <br><br>I am working as optical Engineer<br>I'm learning coding tools recently such as: <br> <br>HTML,<br>CSS, Javascript (front-end), Node/Express (back-end),<br>Electron (Desktop apps),<br>Dart/Flutter (mobile apps),<br>Python.<br><br>Website: www.carloschacon.fr<br>Email: carlosalbertoch.correo@gmail.com<br>
 <p align="center">
 <img width="706" alt="markmap-mindmap" src="https://user-images.githubusercontent.com/23017385/218765457-f03a0b27-5b20-45da-a4a5-1b5402911425.png">
-</p>
+</p><br>
+
 #  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/carlosalberto.chacon.35) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-chacon-50bbbb17b) 
 
